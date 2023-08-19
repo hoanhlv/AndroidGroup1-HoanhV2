@@ -1,4 +1,4 @@
-package com.hoanhlv.androidcourseapp.practices;
+package com.hoanhlv.androidcourseapp.practices.practice8;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
@@ -9,12 +9,12 @@ import android.view.MenuItem;
 
 import com.hoanhlv.androidcourseapp.R;
 
-public class Practice2 extends AppCompatActivity {
+public class Practice8_FileSystem extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_practice2);
+        setContentView(R.layout.activity_practice8_file_system);
 
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);

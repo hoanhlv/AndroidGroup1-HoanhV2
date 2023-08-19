@@ -9,3 +9,6 @@ Danh sách các bài tập đã làm:
 5. Slide 6 - Menu
 6. Slide 7 - Intent
 7. Slide 8 - Intent Filter, Broadcast Receiver
+8. Slide 9 - Luu tru du lieu
+9. Slide 10 - Content providers
+10. Slide 11 - Services
